@@ -57,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -128,7 +129,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ed9973497da576e1",
+  "active": "42de0d3f4791fd70",
   "lastOpenFiles": [
     "Untitled.md",
     "hello.md"
