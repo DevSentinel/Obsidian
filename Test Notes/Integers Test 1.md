@@ -26,7 +26,6 @@ Remember:
 	- Am I starting with a positive or a negative?
 	- Am I making it bigger or smaller?
 	- Will my answer be positive, negative, or zero?
-- 1 is ALWAYS a factor of any number. 
 ![[Pasted image 20221013075001.png]]
 ![[Pasted image 20221013075215.png]]
 - For Multiplicate and Division: In order to figure out if your end result is going to be negative or positive, if there is a odd number of negative factors, the answer is going to be negative. If theres a even amount of negative factors the answer will be positive.
