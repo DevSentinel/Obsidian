@@ -14,3 +14,5 @@ Find the missing side (A, B or C) in a right Triangle using Pythagorean Theorem
 
 ### IXL
 DO the IXL: B8, Y1-9 S 1-6
+
+![image](https://user-images.githubusercontent.com/87673339/205635765-66a05697-2ce4-4912-91b5-d8030b8df850.png)
